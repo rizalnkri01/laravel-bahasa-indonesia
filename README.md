@@ -7,7 +7,9 @@ Validasi Laravel Bahasa Indonesia
 3. Ubah Config Untuk Menjadi Indonesia di dalam folder config/app.php
 
 # Ubah file folder config/app.php
-'timezone' => 'Asia/Jakarta',
-'locale' => 'id',
-'fallback_locale' => 'id',
-'faker_locale' => 'id_ID',
+<ul>
+  <li>'timezone' => 'Asia/Jakarta',</li>
+  <li>'locale' => 'id',</li>
+  <li>'fallback_locale' => 'id',</li>
+  <li>'faker_locale' => 'id_ID',</li>
+</ul>
